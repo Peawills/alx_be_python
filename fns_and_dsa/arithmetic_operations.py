@@ -1,15 +1,5 @@
 def perform_operation(num1: float, num2: float, operation: str):
-    """
-    Performs a basic arithmetic operation based on the operation string.
-
-    Parameters:
-    - num1 (float): The first number.
-    - num2 (float): The second number.
-    - operation (str): Operation to perform ('add', 'subtract', 'multiply', 'divide').
-
-    Returns:
-    - float or str: Result of the operation or an error message.
-    """
+    
 
     if operation == "add":
         return num1 + num2
