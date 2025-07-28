@@ -1,10 +1,5 @@
-# Define the principal, rate, and time
-principal = 1000
-rate = 0.05
-time = 3
-
-# Calculate simple interest
-interest = principal * rate * time
-
-# Print the result
-print(f"The simple interest is: {interest}")
+name = "peaceful"
+Age = 12
+Point = 23.6
+print("My name is "+name+ ", I am "+Age+" years old,"
+      "I have point "+Point)
